@@ -1,66 +1,45 @@
-# minecraftcolors README
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=150px height=150px src="https://img.cleymax.fr/icons.png" alt="MinecraftColors Logo"></a>
+</p>
 
-This is the README for your extension "minecraftcolors". After writing up a brief description, we recommend including the following sections.
+<h1 align="center">MinecraftColors</h1>
 
-## Features
+<div align="center">
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/cleymax/MinecraftColors.svg)](https://github.com/Cleymax/MinecraftColors/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/cleymax/MinecraftColors.svg)](https://github.com/Cleymax/MinecraftColors/pulls)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-For example if there is an image subfolder under your extension project workspace:
+</div>
 
-\!\[feature X\]\(images/feature-x.png\)
+---
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+<p align="center"> 🌟 Recognize minecraft color codes directly  !
+    <br> 
+</p>
 
-## Requirements
+## 📝 Table of Contents
++ [About](#about)
++ [Demo](#demo)
++ [How it works](#working)
++ [TODO](../TODO.md)
++ [Contributing](../CONTRIBUTING.md)
++ [Authors](#authors)
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## 🧐 About <a name = "about"></a>
+This extension allows you to highlight the color codes with the color that corresponds to them! This is much more convenient when configuring plugins or other...
 
-## Extension Settings
+## 🎥 Demo  <a name = "demo"></a>
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
-For example:
+## 💭 How it works <a name = "working"></a>
 
-This extension contributes the following settings:
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+## ✍️ Authors <a name = "authors"></a>
++ [@Cleymax](https://github.com/Cleymax) - Idea & Initial work
 
-## Known Issues
+<br>
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-# MinecraftColors
+See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
