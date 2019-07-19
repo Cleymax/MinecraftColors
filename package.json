@@ -20,6 +20,13 @@
 	"activationEvents": [
 		"*"
 	],
+	"repository": {
+		"url": "github:Cleymax/MinecraftColors",
+		"type": "git"
+	},
+	"bugs": {
+		"url": "https://github.com/Cleymax/MinecraftColors/issues"
+	},
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
